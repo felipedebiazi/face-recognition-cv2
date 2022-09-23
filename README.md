@@ -1,1 +1,2 @@
-# face-recognition-cv2
+# face_recognition_cv2
+ 
